@@ -5,8 +5,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Proxy
   - Debugging Proxy
+  - Proxy
 url: >-
   https://raw.githubusercontent.com/api-evangelist/proxyman/refs/heads/main/apis.yml
 created: '2026-03-27'
@@ -19,8 +19,8 @@ apis:
       Proxyman is a modern, native macOS app for HTTP/HTTPS debugging proxy with advanced features for API development and testing.
     humanURL: https://proxyman.io/
     tags:
-      - Proxy
       - Debugging Proxy
+      - Proxy
     properties:
       - type: Documentation
         url: https://docs.proxyman.io/
