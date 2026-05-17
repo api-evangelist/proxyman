@@ -24,14 +24,14 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.proxyman.io/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.proxyman.io/getting-started
 common:
   - type: Website
     url: https://proxyman.io/
   - type: Documentation
     url: https://docs.proxyman.io/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/nicklama
 maintainers:
   - FN: Kin Lane
