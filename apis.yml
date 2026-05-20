@@ -27,6 +27,8 @@ apis:
       - type: GettingStarted
         url: https://docs.proxyman.io/getting-started
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/proxyman
   - type: Website
     url: https://proxyman.io/
   - type: Documentation
