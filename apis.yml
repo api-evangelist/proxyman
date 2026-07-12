@@ -27,6 +27,8 @@ apis:
       - type: GettingStarted
         url: https://docs.proxyman.io/getting-started
 common:
+  - type: DomainSecurity
+    url: security/proxyman-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/proxyman
   - type: Website
@@ -35,6 +37,8 @@ common:
     url: https://docs.proxyman.io/
   - type: GitHubOrganization
     url: https://github.com/nicklama
+  - url: https://proxyman.com/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
